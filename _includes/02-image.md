@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Oregon coast dusk](https://github.com/gitkan/markdown-portfolio/blob/gitkan-patch-1/Oregon_coast_dusk.jpg)
