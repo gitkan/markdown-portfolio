@@ -1,2 +1,6 @@
-W
-rite out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- これはBoldでもItalicでもない、普通です
+- *これはItalicですね*
+- **そしてこれはBoldですか**
+- _これもItalicになるということです_
+- __つまりこれもBoldになるのですね__
+- *結局、Italicになれるのは**アルファベットだけ**なのですね*
